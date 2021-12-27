@@ -1,6 +1,8 @@
 # Eye-tracking
 _First assignment of Computational Modelling, Cognitive Science BSc, Aarhus University. Data from eye-tracking workshop._
 
+![foraging sheep](Data_visualizations_files/figure-markdown_github/unnamed-chunk-9-1.png)
+
 Analysis of eye-tracking data in two experiments.
 ### Foraging experiment
 According to the eye-mind hypothesis, eye-movements are linked to the
